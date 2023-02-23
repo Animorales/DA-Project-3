@@ -17,8 +17,7 @@ Hemos procedido a la limpieza y tratamiento de los datos para posterior predicci
 Adjuntamos, en este orden,  el link para tablero canvas, basado en metodologias Agile y el link para la presentación final de proyecto: 
  - canvas: 
 https://github.com/orgs/Adalab/projects/165
- - presentación: 
-(https://drive.google.com/file/d/1gDOUVFm_JC9_ZLoA6NUxSA_S_89fKoxt/view?usp=sharing)
+
 
 
 ## Archivos   
